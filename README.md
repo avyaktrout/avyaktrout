@@ -16,4 +16,4 @@
 [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [instagram]: https://www.instagram.com/avyakt_rout12
-[linkedin]: https://www.linkedin.com/in/avyakt-rout-1aa866220/
+[linkedin]: https://www.linkedin.com/in/avyaktr/
