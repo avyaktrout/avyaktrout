@@ -1,4 +1,4 @@
-<h1>Hi, I'm Avyakt, an <a href="https://www.linkedin.com/in/avyakt-rout-1aa866220/">IT Professional.</h1>
+<h1>Hi, I'm Avyakt, an <a href="https://www.linkedin.com/in/avyakt-rout-1aa866220/">IT Professional and an aspiring Software Engineer.</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
