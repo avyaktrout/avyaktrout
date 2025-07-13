@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Avyakt Rout, a third-year Computer Science student at Cal State Fullerton. I currently work as a Student IT Consultant at the university and I'm currently trying to pursue a career in software engineering. In addition to coding, I love going to the gym, cooking, watching TV shows & anime, exploring, and spending time with friends and family.
+Hi, I'm Avyakt Rout, a final year Computer Science student at Cal State Fullerton. I currently work as a Student IT Consultant at the university and I'm currently trying to pursue a career in software engineering. In addition to coding, I love going to the gym, cooking, watching TV shows & anime, exploring, and spending time with friends and family.
 
 
 ## 🌐 Socials:
