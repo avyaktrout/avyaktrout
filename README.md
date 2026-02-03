@@ -2,7 +2,7 @@
 
 I’m a **Computer Science student at Cal State Fullerton (Class of 2026)** with a strong interest in **backend and full-stack software engineering**.
 
-I enjoy building **API-driven systems**, designing **secure backend services**, and taking projects from idea → implementation → deployment. I’m especially interested in roles where I can work on **real-world systems**, data, and infrastructure — not just toy apps.
+I enjoy building **API-driven systems**, designing **secure backend services**, and taking projects from idea → implementation → deployment. I’m especially interested in roles where I can work on **real-world systems**, data, and infrastructure not just toy apps.
 
 Outside of coding, I enjoy going to the gym, cooking, watching anime and TV shows, exploring new places, and spending time with friends and family.
 
