@@ -28,7 +28,7 @@ Oggy is a multi-domain AI system composed of:
 - Adaptive difficulty scaling and performance analytics  
 - Production deployment via Docker, AWS EC2, and Cloudflare Tunnel  
 
-Oggy integrates semantic retrieval, automated evaluation, and domain-specific learning pipelines into a continuously improving AI system.
+Oggy is my largest systems project to date and represents my work on distributed architecture, AI orchestration, and production deployment.
 
 ---
 
